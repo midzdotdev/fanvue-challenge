@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       <main>
         <Box textAlign={"center"} my={8}>
           <Typography component="h1" variant="h3">
-            Fanvue&apos;s Frontend coding challenge
+            Fanvue&apos;s Fullstack coding challenge
           </Typography>
         </Box>
         <Grid container spacing={1}>

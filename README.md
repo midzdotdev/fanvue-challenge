@@ -1,4 +1,4 @@
-# frontend-coding
+# Fanvue's Fullstack challenge
 
 Setup the project:
 
@@ -17,15 +17,15 @@ Second Task:
 - create a "vault" page, showing a responsive grid of square pictures (use https://jsonplaceholder.typicode.com/ to get the data) which are simple thumbnails
 - when clicking on a thumbnail, the fullscreen image opens
 
-Requirements:
+Touch base on the following:
 
-- You should use MUI5 components https://mui.com/material-ui/
-- You can create your own component if needed, style it with the default `styled` from MUI without installing other libraries
-
-Bonus points:
-
-- SSR considerations
+- SSR considerations, if you have time, implement a simple server-side rendering
 - Type the responses from the API calls
-- create meaningful tags in the head of each page
+- create meaningful tags in the head of each page, or any other SEO consideration
 - add the favicon stealing it from fanvue.com ;)
 - a11y considerations
+
+Note:
+
+- Styling is not required, you should use MUI5 components out-of-the box, check docs here https://mui.com/material-ui/
+- You can install your favourite fetch library, but you can also use the built-in fetch API
