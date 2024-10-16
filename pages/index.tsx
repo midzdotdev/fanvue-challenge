@@ -1,9 +1,9 @@
+import { Box, Grid, Link, Paper, Typography } from "@mui/material";
 import type { NextPage } from "next";
 import Head from "next/head";
 import NextLink from "next/link";
-import { Paper, Box, Typography, Link, Grid } from "@mui/material";
 
-const Home: NextPage = () => {
+const HomePage: NextPage = () => {
   return (
     <div>
       <Head>
@@ -72,4 +72,4 @@ const Home: NextPage = () => {
   );
 };
 
-export default Home;
+export default HomePage;
